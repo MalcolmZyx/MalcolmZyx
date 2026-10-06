@@ -19,10 +19,10 @@ I am passionate about architecting scalable data pipelines, training ML models, 
 - an AWS Certified Machine Learning Engineer (Associate)
   
 🌒 **Previously, I was...**
-- an intern at a Health-Teach startup and [VillageCore](https://villagecore.org/)
+- an Intern at a Health-Teach startup and [VillageCore](https://villagecore.org/)
 - an Engineer for an industry-sponsored Capstone project ([CS490](https://catalog.csusm.edu/preview_course_nopop.php?catoid=12&coid=47420))
-- an instructor at [CSUSM](https://www.csusm.edu/) ([CS370](https://catalog.csusm.edu/preview_course_nopop.php?catoid=9&coid=30837), [CS211](https://catalog.csusm.edu/preview_course_nopop.php?catoid=1&coid=456)), and [theCoderSchool](https://www.thecoderschool.com/) (Python & Scratch)
-- a monetized content creator on TikTok & YouTube
+- an Instructor at [CSUSM](https://www.csusm.edu/) ([CS370](https://catalog.csusm.edu/preview_course_nopop.php?catoid=9&coid=30837), [CS211](https://catalog.csusm.edu/preview_course_nopop.php?catoid=1&coid=456)), and [theCoderSchool](https://www.thecoderschool.com/) (Python & Scratch)
+- a monetized Content Creator on TikTok & YouTube
 
 💪 **My skills...**
   - **Languages & Frameworks:**
