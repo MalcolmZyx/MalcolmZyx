@@ -44,4 +44,4 @@ I am passionate about architecting scalable data pipelines, training ML models, 
 - game development & local LLM / RAG integration 🎮 
 - Star Wars Fan 🍿 
 
-📫 Find anything interesting/thought-provoking? Or want to collaborate on a project/hackathon? Reach out at `mjzartman[at]gmail[dot]com` or connect with me on [Linkedin](https://www.linkedin.com/in/malcolm-zartman)
+📫 Find anything interesting/thought-provoking? Or want to collaborate on a project/hackathon? Reach out on [Linkedin](https://www.linkedin.com/in/malcolm-zartman)
