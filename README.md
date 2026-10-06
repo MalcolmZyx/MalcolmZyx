@@ -45,3 +45,5 @@ I am passionate about architecting scalable data pipelines, training ML models, 
 - Star Wars Fan 🍿 
 
 📫 Find anything interesting/thought-provoking? Or want to collaborate on a project/hackathon? Reach out on [Linkedin](https://www.linkedin.com/in/malcolm-zartman)
+
+<img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/a2309ee6-0de5-4306-9fb0-931676a5db98" />
