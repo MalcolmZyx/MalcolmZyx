@@ -19,20 +19,14 @@ I am passionate about architecting scalable data pipelines, training ML models, 
 - an AWS Certified Machine Learning Engineer (Associate)
   
 🌒 **Previously, I was...**
-- a Data Science Intern at a Health-Teach startup
+- an intern at a Health-Teach startup and [VillageCore](https://villagecore.org/)
 - an Engineer for an industry-sponsored Capstone project ([CS490](https://catalog.csusm.edu/preview_course_nopop.php?catoid=12&coid=47420))
-- an instructional assistant at [CSUSM](https://www.csusm.edu/) ([CS370](https://catalog.csusm.edu/preview_course_nopop.php?catoid=9&coid=30837), [CS211](https://catalog.csusm.edu/preview_course_nopop.php?catoid=1&coid=456))
-- a Software Developer Intern at [VillageCore](https://villagecore.org/)
-- an instructor at [theCoderSchool](https://www.thecoderschool.com/) (Python & Scratch)
+- an instructor at [CSUSM](https://www.csusm.edu/) ([CS370](https://catalog.csusm.edu/preview_course_nopop.php?catoid=9&coid=30837), [CS211](https://catalog.csusm.edu/preview_course_nopop.php?catoid=1&coid=456)), and [theCoderSchool](https://www.thecoderschool.com/) (Python & Scratch)
 - a monetized content creator on TikTok & YouTube
 
 💪 **My skills...**
   - **Languages & Frameworks:**
-    - Python (PyTorch, TensorFlow, Keras, Pandas, NumPy, SciPy), SQL, C++, C#, Java, HTML/CSS/JS
-  - **Data & ML:**
-    - Unsupervised Learning, Supervised Learning, Feature Importance (SHAP), Feature Selection (RFECV), Feature Engineering, Geospatial ML, Natural Language Processing, Computer Vision
-  - **Tools, Cloud & Platforms:**
-    - AWS, Azure, GCP, Docker, Databricks, Slurm (HPC), Hugging Face Hub, Git, UNIX/Linux
+    - Languages & ML: Python (PyTorch, TensorFlow, Pandas, NumPy, Scikit-learn), SQL, C++, HTML/CSS/JS | ML Domain: Computer Vision, NLP, Geospatial ML | Cloud & Tools: AWS, Databricks, Docker, Git, Linux, HPC/Slurm 
   - **Soft Skills:**
     - Leadership, Organization, Communication, Teamwork, Time Management, Public Speaking
 
