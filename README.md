@@ -23,8 +23,8 @@ I am passionate about architecting scalable data pipelines, training ML models, 
 - a Data Science Intern at a Health-Teach startup
 - an Engineer for an industry-sponsored Capstone project ([CS490](https://catalog.csusm.edu/preview_course_nopop.php?catoid=12&coid=47420))
 - an instructional assistant at [CSUSM](https://www.csusm.edu/) ([CS370](https://catalog.csusm.edu/preview_course_nopop.php?catoid=9&coid=30837), [CS211](https://catalog.csusm.edu/preview_course_nopop.php?catoid=1&coid=456))
-- an instructor at [theCoderSchool](https://www.thecoderschool.com/) (Python & Scratch)
 - a Software Developer Intern at [VillageCore](https://villagecore.org/)
+- an instructor at [theCoderSchool](https://www.thecoderschool.com/) (Python & Scratch)
 - a monetized content creator on TikTok & YouTube
 
 💪 **My skills...**
