@@ -15,7 +15,7 @@ I am passionate about architecting scalable data pipelines, training ML models, 
 
 🌞 **I am currently...**
 - a Junior Data Scientist at a Health-Tech startup
-  - ...architecting a proprietary health-scoring engine & ranking algorithm to analyze multi-modal data and optimize human longevity
+  - Architecting a proprietary health-scoring engine & ranking algorithm to analyze multi-modal data and optimize human longevity
 - an AWS Certified Machine Learning Engineer (Associate)
   
 🌒 **Previously, I was...**
