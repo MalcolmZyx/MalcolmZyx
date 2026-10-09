@@ -25,7 +25,7 @@ I am passionate about architecting scalable data pipelines, training ML models, 
 - a monetized Content Creator on TikTok & YouTube
 
 💪 **My skills...**
-  - **Languages & Frameworks:**
+  - **Tech Skills:**
     - Languages & ML: Python (PyTorch, TensorFlow, Pandas, NumPy, Scikit-learn), SQL, C++, HTML/CSS/JS | ML Domain: Computer Vision, NLP, Geospatial ML | Cloud & Tools: AWS, Databricks, Docker, Git, Linux, HPC/Slurm 
   - **Soft Skills:**
     - Leadership, Organization, Communication, Teamwork, Time Management, Public Speaking
